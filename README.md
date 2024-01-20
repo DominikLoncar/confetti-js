@@ -14,7 +14,7 @@ Have you ever seen that cool looking confetti on landing pages and above-the-fol
 
 ## Installing/Using
 
-### 📲 Downloading
+### 📲 Download
 
 - Using `npm`
 
